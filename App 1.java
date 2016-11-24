@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world!patch
+ * Hello world!
  *
  */
 public class App 
